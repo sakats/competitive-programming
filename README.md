@@ -1,4 +1,4 @@
-# competitive-
+# competive-programing
 
 AOJで[Introduction To Programming I](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)を学習
 
